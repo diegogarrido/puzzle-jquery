@@ -1,0 +1,13 @@
+.container {
+    width: 200px;
+    padding: 10px 0px;
+    margin: auto;
+    border: black 1px solid;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+img {
+    display: block;
+}
